@@ -1,3 +1,22 @@
-# ACADEMIC HUB 1.0
+# ACADEMIC HUB 1.0: OVERVIEW:
 
-Academic Hub. A simple work-in-progress C++ system that is created for students as a learning management system. It has 4 subjects: Filipino, Math, Science & English. It has a Student Log-in as well as a Teacher Log-in.
+A simple work-in-progress C++ Learning Management System (LMS) that is created for Students and Teachers.
+
+# PROGRAMMING LANGUAGE/S USED FOR THIS PROJECT:
+
+C++
+
+# FEATURES:
+
+For Students:
+- Math
+- English 
+- Filipino
+- Science
+
+For Teachers:
+- None (for now)
+
+# MANDATORY:
+
+This README was last updated on February 2, 2026
