@@ -1,4 +1,8 @@
-# ACADEMIC HUB 1.0: OVERVIEW:
+# NOTES:
+
+An official name for this system is still a work in progress
+
+# LMS 1.0: OVERVIEW:
 
 A simple work-in-progress C++ Learning Management System (LMS) that is created for Students and Teachers.
 
