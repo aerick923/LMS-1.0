@@ -2,6 +2,10 @@
 
 A simple work-in-progress C++ Learning Management System (LMS) that is created for Students and Teachers.
 
+# OBJECTIVES OF THIS PROJECT:
+
+For me to learn C++ as a whole by eventually polishing & constructing a fully functional LMS
+
 # PROGRAMMING LANGUAGE/S USED FOR THIS PROJECT:
 
 C++
